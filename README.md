@@ -125,7 +125,7 @@ Courses_FPP 1───N Enrollments_FPP
 4. Check the results in your SQL client's output panel
 ```
 
-<img width="896" height="1200" alt="image_fe4648da jpg" src="https://github.com/user-attachments/assets/1a274aed-1aae-4341-8861-35d4c7b59980" />
+<img width="1408" height="768" alt="image_f9cae87a jpg" src="https://github.com/user-attachments/assets/37108f3a-d544-42bc-9ed5-d00a988b8872" />
 
 ---
 
