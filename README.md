@@ -162,7 +162,8 @@ Courses_FPP 1───N Enrollments_FPP
 
 ### 👤 Author
 
-**Add your name here** 📍 Add your location here
+**Bhavika Thadani* 
+📍 Ahmedabad
 
 Made with ❤️ to strengthen SQL fundamentals: joins, subqueries, and window functions.
 
